@@ -8,5 +8,5 @@ Then clone the following repository:
 git clone https://github.com/AKAcoder1/usv_doc.git
 ```
 
-To access the Marine X manul just go to usv_doc>build/html and open index.html
+To access the Marine X manual go to usv_doc>build/html and open index.html
 
